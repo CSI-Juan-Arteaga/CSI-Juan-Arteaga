@@ -3,8 +3,8 @@
 <div align="center">
     <img    src="https://tse1.mm.bing.net/th?id=OIP.HIeet2QUF7xlsSUdUFgI8gHaD4&pid=Api&P=0&w=394&h=207"
             title="Welinton"
-            width="20%"
-            height="20%" 
+            width="30%"
+            height="30%" 
             />
 </div>
 
